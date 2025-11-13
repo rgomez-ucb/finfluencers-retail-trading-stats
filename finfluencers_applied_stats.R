@@ -8,7 +8,7 @@ library(fredr) #install
 
 #----------Stock–day data----------
 tickers <- c("GME","AMC","PLTR","CVNA")  # starting with a small number of stocks. we can add more later on
-                                        # GME,gamestop, AMC, move theater, PLTR, Palantir, CVNA, Carvana  
+                                        # GME,gamestop, AMC,movie theater, PLTR, Palantir, CVNA, Carvana  
 
 start_date <- as.Date("2020-01-01")
 end_date   <- as.Date("2024-12-31")
