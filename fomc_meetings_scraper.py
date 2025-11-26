@@ -8,7 +8,7 @@ print("Fetching webpage...")
 resp = requests.get(URL, headers={"User-Agent": "Mozilla/5.0"})
 soup = BeautifulSoup(resp.text, "html.parser")
 
-target_years = ["2020", "2021", "2022", "2023", "2024"]
+target_years = ["2020", "2021", "2022"]
 rows = []
 
 # Step 1 — locate the panels
