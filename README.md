@@ -3,6 +3,7 @@ Repo that statistically measures financial social media influencer impact on ret
 
 Contributors: Gao Kaia, Gomez Ruben, Zhou Hanning
 
+[View the Full Presentation (PDF)]([2025-12-04] Applied stats - Finfluencer effect on retail trading behavior.pdf)
 
 ### 1. Research Question
 
